@@ -3,3 +3,7 @@
 lets have practice in devops
 
 lets make some changes
+
+
+learn cloud,
+and AWS
